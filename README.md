@@ -12,7 +12,7 @@ A cross-platform (Android) Todo Task Management Mobile App built with Expo and R
 ## Setup Instructions
 1. Clone this repository
 2. Run `npm install`
-3. Run `npm start` and scan the QR code with Expo Go (Android)
+3. Run `npx expo start` and scan the QR code with Expo Go (Android)
 
 ## Assumptions
 - Only Android is supported (as per instructions)
